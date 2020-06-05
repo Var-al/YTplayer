@@ -1,1 +1,13 @@
 # YTplayer
+#### 悦听音乐网页版播放器
+#### 主要功能
+  + 音乐搜索（敲击Enter）
+  + 音乐播放
+  + 专辑封面同步
+  + 热门评论
+  + MV播放（点击MV外遮罩层取消播放）
+#### 主要技术栈
+  + Html、Css
+  + Vue
+    + v-on、v-medol、v-bind、v-for、v-if等指令，
+    + axios调用网络接口
